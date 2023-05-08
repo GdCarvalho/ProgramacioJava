@@ -1,0 +1,27 @@
+package singleton;
+
+
+
+public final class claseSingleton {
+	
+	private String mensaje;
+	private static Singleton instancia;
+	
+	
+	private claseSingleton(String mensaje) {
+		
+		this.mensaje = mensaje;
+	}
+	
+	public Singleton getInstancia(String mensaje) {
+		if(instancia==null) {
+			new Singleton();
+		}
+		
+	}
+	
+	
+	
+	
+
+}

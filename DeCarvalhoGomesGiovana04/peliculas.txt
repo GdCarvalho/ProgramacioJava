@@ -1,0 +1,4 @@
+TY56,Parque Jurásico,125,Steven Spielberg,Ciencia-Ficción,true,2023-01-28,2023-02-02
+QW90,Regreso al Futuro,110,Robert Zemeckis,Ciencia-Ficción,false,0,0
+GT56,El Padrino,175,Francis Ford Coppola,Drama/Mafia,true,2023-01-28,2023-02-02
+WP09,Testigo de cargo,114,Billy Wilder,Drama,false,0,0
